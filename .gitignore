@@ -1,0 +1,7 @@
+# Ignore some files that might end up here
+.DS_Store
+*/.DS_Store
+*.esproj
+*.bbprojectd
+*.sublime-project
+*.sublime-workspace
