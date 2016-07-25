@@ -27,9 +27,41 @@ _Beliefs about beliefs._
 
 #### Beliefs
 
+"There is no greater productivity tip than realising what you absolutely don't need to be doing." -- Merlin Mann B2W Ep 280
+
+---
+
+[YAGNI](https://en.m.wikipedia.org/wiki/You_aren%27t_gonna_need_it):
+
+"Always implement things when you actually need them, never when you just foresee that you need them."
+
+"do the simplest thing that could possibly work" (DTSTTCPW) -- meant to be used in combination with several other practices, such as continuous refactoring, continuous automated unit testing, and continuous integration. Used without continuous refactoring, it could lead to disorganized code and massive rework. YAGNI's dependency on supporting practices is part of the original definition of XP. (TK rework this -- quoted for now, but needs to be refined for more general appliation than XP.)
+
+---
+
+Beware (but don't necessarily avoid) [yak shaving](https://en.m.wiktionary.org/wiki/yak_shaving):
+
+It is either:
+
+"Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem."
+
+_or_
+
+"A less useful activity done consciously or unconsciously to procrastinate about a larger but more useful task."
+
+If it happens, make sure it is the first of these.
+
 #### Pre-Decisions
 
+- Set (and review) priorities every day.  
+- Limit the number of possible outcomes (use the Agile Results methodology).  
+- Timebox or schedule whenever there seems to be too much to do in a single day. If it doesn't fit in the time available, then review the day's priorities.
+
 #### Aspirations
+
+Productivity, checking off tasks, is not the aim or the goal. Simplicity, reduced cognitive load, reduced burden, these are the goals.
+
+Work towards doing less, not doing everything on the list. This means knowing just what is needed, and doing just enough so that some things (which at first seemed important) can be put aside for ever. 
 
 ### Food
 
@@ -74,9 +106,9 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 
 _References_:
 
-[Live Like a Hydra][2]
-[Habit Manifesto][3]
-[Original Buffer post that lead me to this][4]
+[Live Like a Hydra][2]  
+[Habit Manifesto][3]  
+[Original Buffer post that lead me to this][4]  
 
 
 ## Personal Canon
